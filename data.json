@@ -1,4 +1,39 @@
 {
   "title": "Skyler Cohen",
-  "subtitle": "Model & Actor"
+  "subtitle": "Model & Actor",
+  "about": {
+    "header": "About me!",
+    "p1": "Hi I am Skyler and I am 4 years old with a tonne of charm, personality and confidence. I am managed by Giant Junior (Modelling) and RPR Talent (Acting). I have been modelling since I was 2.5 and have been lucky enough to work with some amazing brands, including:",
+    "brands": [
+      "B-Box",
+      "Heartcore Legends",
+      "HipKids",
+      "House of Emmerson",
+      "Tara-The Academy of Runway Australia",
+      "Walnut Melbourne"
+    ],
+    "p2": "I have recently attended runway workshops to develop the perfect runway pose as well as learning different styles of runway walks."
+  },
+  "contact": [
+    {
+      "name": "GIANT JUNIOR (MODELLING)",
+      "details": [
+        "627 Orrong Road",
+        "Toorak, Vic",
+        "3142",
+        "Tel: (03)98274877​",
+        "tara@giantmanagement.com"
+      ]
+    },
+    {
+      "name": "RPR TALENT (ACTING)",
+      "details": [
+        "23 Milton Parade",
+        "Malvern, Vic",
+        "3144",
+        "Tel: (03)98320818",
+        "info@rprtalentmanagement.com.au"
+      ]
+    }
+  ]
 }
