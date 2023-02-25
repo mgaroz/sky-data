@@ -9,11 +9,13 @@
     {
       "name": "GIANT JUNIOR (MODELLING)",
       "details": [
-        "627 Orrong Road",
-        "Toorak, Vic",
-        "3142",
-        "Tel: (03) 98274877​",
-        "tara@giantmanagement.com"
+        {
+          "p1": "627 Orrong Road",
+          "p2": "Toorak, Vic",
+          "p3": "3142",
+          "tel": "Tel: (03) 98274877",
+          "email": "tara@giantmanagement.com"
+        }
       ]
     }
   ]
